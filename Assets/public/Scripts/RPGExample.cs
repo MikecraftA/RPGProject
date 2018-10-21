@@ -6,12 +6,12 @@ using RPGWORLD;
 public class RPGExample : RPGWorld {
 
 	// Use this for initialization
-	void Start () {
+	public override void Start () {
         world = new MyWorld();
 	}
-	
-	// Update is called once per frame
-	void Update () {
+
+    // Update is called once per frame
+    public override void Update() {
 		
 	}
 }

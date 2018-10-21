@@ -1,0 +1,23 @@
+Possibly fields:
+
+Range
+
+Type
+
+Pysical Attack
+
+Magically Attack
+
+Attribute []
+
+Attribute strength []
+
+Cooldown time
+
+Ammo
+
+Attack range
+
+Durability
+
+
